@@ -1,0 +1,16 @@
+Package: rdatetime
+Type: Package
+Title: Tests linking to RApiDatetime
+Version: 0.1.0
+Authors@R: c(
+    person("David", "Cooley", ,"dcooley@symbolix.com.au", role = c("aut", "cre"))
+    )
+Description: Tests whether RApiDatime is linkable.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends:
+  RApiDatetime
+LinkingTo:
+  RApiDatetime

@@ -1,8 +1,5 @@
 
 #include "rdatetime.h"
+#include "RApiDatetime.h"
 
-void _rdatetime() {
-
-
-
-}
+void _rdatetime() { }
